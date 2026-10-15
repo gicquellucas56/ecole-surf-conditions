@@ -1,0 +1,54 @@
+{
+  "landes": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "La Gravière", "c": "Hossegor", "lv": "Spot expert", "lat": 43.6745, "lng": -1.441, "face": 285},
+    {"n": "Les Estagnots", "c": "Seignosse", "lv": "Intermédiaire", "lat": 43.6975, "lng": -1.439, "face": 285},
+    {"n": "Vieux-Boucau", "c": "Vieux-Boucau-les-Bains", "lv": "Tous niveaux", "lat": 43.79, "lng": -1.405, "face": 280},
+    {"n": "Biscarrosse Plage", "c": "Biscarrosse", "lv": "Tous niveaux", "lat": 44.456, "lng": -1.253, "face": 275}]},
+  "pays-basque": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "Grande Plage", "c": "Biarritz", "lv": "Tous niveaux", "lat": 43.4845, "lng": -1.559, "face": 300},
+    {"n": "Côte des Basques", "c": "Biarritz", "lv": "Débutant", "lat": 43.479, "lng": -1.566, "face": 285},
+    {"n": "Les Cavaliers", "c": "Anglet", "lv": "Confirmé", "lat": 43.517, "lng": -1.5265, "face": 290},
+    {"n": "Plage d’Hendaye", "c": "Hendaye", "lv": "Débutant", "lat": 43.3735, "lng": -1.774, "face": 330}]},
+  "gironde-charente-maritime": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "Lacanau Océan", "c": "Lacanau", "lv": "Tous niveaux", "lat": 45.001, "lng": -1.202, "face": 270},
+    {"n": "Carcans Plage", "c": "Carcans", "lv": "Tous niveaux", "lat": 45.085, "lng": -1.18, "face": 270},
+    {"n": "Soulac-sur-Mer", "c": "Soulac-sur-Mer", "lv": "Tous niveaux", "lat": 45.515, "lng": -1.127, "face": 275},
+    {"n": "Vert-Bois", "c": "Île d’Oléron", "lv": "Tous niveaux", "lat": 45.915, "lng": -1.3, "face": 250}]},
+  "vendee-loire-atlantique": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "Grande Plage des Sables", "c": "Les Sables-d’Olonne", "lv": "Débutant", "lat": 46.4935, "lng": -1.788, "face": 210},
+    {"n": "Sauveterre", "c": "Les Sables-d’Olonne", "lv": "Tous niveaux", "lat": 46.555, "lng": -1.816, "face": 250},
+    {"n": "La Sauzaie", "c": "Brétignolles-sur-Mer", "lv": "Confirmé", "lat": 46.643, "lng": -1.879, "face": 260},
+    {"n": "Côte Sauvage", "c": "Le Croisic", "lv": "Intermédiaire", "lat": 47.294, "lng": -2.524, "face": 230}]},
+  "bretagne": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "La Torche", "c": "Plomeur", "lv": "Tous niveaux", "lat": 47.838, "lng": -4.35, "face": 260},
+    {"n": "La Palue", "c": "Crozon", "lv": "Intermédiaire", "lat": 48.214, "lng": -4.558, "face": 270},
+    {"n": "Guidel Plages", "c": "Guidel", "lv": "Tous niveaux", "lat": 47.765, "lng": -3.511, "face": 220},
+    {"n": "Penthièvre", "c": "Quiberon", "lv": "Tous niveaux", "lat": 47.544, "lng": -3.134, "face": 250}]},
+  "normandie-hauts-de-france": {"tz": "Europe/Paris", "tide": "ibi", "spots": [
+    {"n": "Siouville", "c": "Siouville-Hague", "lv": "Tous niveaux", "lat": 49.559, "lng": -1.844, "face": 270},
+    {"n": "Étretat", "c": "Étretat", "lv": "Confirmé", "lat": 49.708, "lng": 0.202, "face": 320},
+    {"n": "Wimereux", "c": "Wimereux", "lv": "Tous niveaux", "lat": 50.769, "lng": 1.608, "face": 280},
+    {"n": "Wissant", "c": "Wissant", "lv": "Tous niveaux", "lat": 50.887, "lng": 1.662, "face": 320}]},
+  "occitanie": {"tz": "Europe/Paris", "tide": "med", "spots": [
+    {"n": "La Franqui", "c": "Leucate", "lv": "Tous niveaux", "lat": 42.933, "lng": 3.03, "face": 100},
+    {"n": "Canet Plage", "c": "Canet-en-Roussillon", "lv": "Tous niveaux", "lat": 42.695, "lng": 3.038, "face": 90}]},
+  "provence-cote-d-azur": {"tz": "Europe/Paris", "tide": "med", "spots": [
+    {"n": "Plages du Prado", "c": "Marseille", "lv": "Tous niveaux", "lat": 43.26419, "lng": 5.36873, "face": 230},
+    {"n": "La Couronne", "c": "Martigues", "lv": "Intermédiaire", "lat": 43.332, "lng": 5.056, "face": 180},
+    {"n": "L’Almanarre", "c": "Hyères", "lv": "Intermédiaire", "lat": 43.057, "lng": 6.127, "face": 250}]},
+  "corse": {"tz": "Europe/Paris", "tide": "med", "spots": [
+    {"n": "Capo di Feno", "c": "Ajaccio", "lv": "Intermédiaire", "lat": 41.96332, "lng": 8.59237, "face": 270},
+    {"n": "Golfe de Lava", "c": "Appietto", "lv": "Tous niveaux", "lat": 41.99, "lng": 8.656, "face": 260}]},
+  "la-reunion": {"tz": "Indian/Reunion", "tide": "none", "spots": [
+    {"n": "Saint-Leu", "c": "Saint-Leu", "lv": "Confirmé", "lat": -21.172, "lng": 55.286, "face": 280},
+    {"n": "Boucan Canot", "c": "Saint-Paul", "lv": "Intermédiaire", "lat": -21.028, "lng": 55.224, "face": 280},
+    {"n": "L’Étang-Salé", "c": "L’Étang-Salé", "lv": "Intermédiaire", "lat": -21.26054, "lng": 55.33167, "face": 240}]},
+  "antilles-guyane": {"tz": "America/Guadeloupe", "tide": "none", "spots": [
+    {"n": "Le Moule", "c": "Guadeloupe", "lv": "Intermédiaire", "lat": 16.333, "lng": -61.343, "face": 30},
+    {"n": "Basse-Pointe", "c": "Martinique", "lv": "Confirmé", "lat": 14.872, "lng": -61.115, "face": 20},
+    {"n": "Tartane", "c": "Martinique", "lv": "Tous niveaux", "lat": 14.76, "lng": -60.885, "face": 60}]},
+  "pacifique": {"tz": "Pacific/Tahiti", "tide": "none", "spots": [
+    {"n": "Teahupo’o", "c": "Tahiti", "lv": "Expert", "lat": -17.847, "lng": -149.267, "face": 200},
+    {"n": "Papara", "c": "Tahiti", "lv": "Tous niveaux", "lat": -17.752, "lng": -149.54, "face": 210},
+    {"n": "Taapuna", "c": "Tahiti", "lv": "Confirmé", "lat": -17.59, "lng": -149.625, "face": 250}]}
+}
